@@ -1,0 +1,162 @@
+{
+	"parameter_map" : 	{
+		"midi" : 		{
+			"slider" : 			{
+				"srcname" : "21.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[1]" : 			{
+				"srcname" : "22.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[2]" : 			{
+				"srcname" : "23.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[3]" : 			{
+				"srcname" : "24.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[4]" : 			{
+				"srcname" : "25.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[5]" : 			{
+				"srcname" : "26.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[6]" : 			{
+				"srcname" : "27.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[7]" : 			{
+				"srcname" : "28.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[8]" : 			{
+				"srcname" : "48.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"toggle[1]" : 			{
+				"srcname" : "28.note.8.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle" : 			{
+				"srcname" : "9.note.8.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[2]" : 			{
+				"srcname" : "10.note.8.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[3]" : 			{
+				"srcname" : "11.note.8.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[4]" : 			{
+				"srcname" : "12.note.8.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[5]" : 			{
+				"srcname" : "25.note.8.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[6]" : 			{
+				"srcname" : "26.note.8.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[8]" : 			{
+				"srcname" : "27.note.8.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"slider[9]" : 			{
+				"srcname" : "41.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[10]" : 			{
+				"srcname" : "42.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[11]" : 			{
+				"srcname" : "43.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[12]" : 			{
+				"srcname" : "44.ctrl.8.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"live.gain~[18]" : 			{
+				"srcname" : "45.ctrl.8.chan.midi",
+				"min" : -70.0,
+				"max" : 6.0,
+				"flags" : 2
+			}
+
+		}
+
+	}
+
+}

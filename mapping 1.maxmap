@@ -1,0 +1,162 @@
+{
+	"parameter_map" : 	{
+		"midi" : 		{
+			"slider" : 			{
+				"srcname" : "21.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[1]" : 			{
+				"srcname" : "22.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[2]" : 			{
+				"srcname" : "23.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[3]" : 			{
+				"srcname" : "24.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[4]" : 			{
+				"srcname" : "25.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[5]" : 			{
+				"srcname" : "26.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[6]" : 			{
+				"srcname" : "27.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[7]" : 			{
+				"srcname" : "28.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[8]" : 			{
+				"srcname" : "36.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[9]" : 			{
+				"srcname" : "29.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[10]" : 			{
+				"srcname" : "30.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[11]" : 			{
+				"srcname" : "31.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"slider[12]" : 			{
+				"srcname" : "32.ctrl.0.chan.midi",
+				"min" : -50.0,
+				"max" : 50.0,
+				"flags" : 2
+			}
+,
+			"toggle" : 			{
+				"srcname" : "60.note.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[2]" : 			{
+				"srcname" : "62.note.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[3]" : 			{
+				"srcname" : "64.note.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[4]" : 			{
+				"srcname" : "65.note.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[5]" : 			{
+				"srcname" : "67.note.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[6]" : 			{
+				"srcname" : "69.note.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[8]" : 			{
+				"srcname" : "71.note.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"toggle[1]" : 			{
+				"srcname" : "72.note.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+,
+			"button" : 			{
+				"srcname" : "67.note.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 3
+			}
+
+		}
+
+	}
+
+}
